@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ticket-Reservation-System</string>
+    <string name="nic_prompt">Your NIC</string>
+    <string name="password_prompt">Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account_prompt">Create New Account ?</string>
+    <string name="sign_up_prompt">Sign Up</string>
+    <string name="logo">logo</string>
+    <string name="register_now">Register Now</string>
+    <string name="your_name_prompt">Your Name</string>
+</resources>
